@@ -1,186 +1,177 @@
-# Praat AI
+<div align="center">
 
-## The Open Language Acquisition Engine
+<img src="assets/icon/praat-ai.png" alt="Praat AI" width="140" />
 
-**Learn with your ears, not your eyes.**
+<h1>Praat AI — Open Language Acquisition Engine</h1>
 
-Praat AI is an open-source AI system designed to help humans acquire languages naturally through listening, based on more than 50 years of research in cognitive science, psycholinguistics, applied linguistics, and second language acquisition.
+<p><strong>Most apps teach languages.</strong></p>
 
-We are not building another language-learning app.
+<p><strong>Praat AI helps humans acquire them.</strong></p>
 
-We are building a language acquisition engine.
+<p>
+Listening-first AI system built on 50+ years of research in cognitive science, psycholinguistics, and computational linguistics.
+</p>
 
----
+<p>
+<a href="https://praatai.vercel.app/">🚀 Try it now</a>
+</p>
 
-## The Problem
+<p>
+<a href="./LICENSE"><img src="https://img.shields.io/badge/License-AGPL--3.0-blue.svg" /></a>
+<img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg" />
+<img src="https://img.shields.io/badge/Approach-Acquisition--First-black.svg" />
+</p>
 
-Despite billions invested in language education, most learners never reach real fluency.
-
-The system is always the same:
-
-- Grammar rules  
-- Vocabulary lists  
-- Translation exercises  
-- Classroom instruction  
-- Memorization and testing  
-
-It produces learners who understand theory but cannot naturally use the language.
-
-The issue is not effort.
-
-It is method.
+</div>
 
 ---
 
-## A Different Assumption
+## Why Praat AI exists
 
-Most tools assume:
+Most people spend years learning a language and never become fluent.
 
-> Language is learned through study.
+Not because they lack effort.
 
-Praat AI starts from a different assumption:
+Because they are using the wrong system.
 
-> Language is acquired through understanding.
+Current tools are built around **study**:
+- memorization
+- grammar rules
+- translation
+- repetition drills
 
-Humans do not learn their first language through rules or translation.
+But humans do not learn their first language this way.
 
-They acquire it through meaningful, comprehensible auditory input over time.
+They acquire it through **comprehensible listening over time**.
 
-Praat AI is built to recreate those conditions using AI.
-
----
-
-## What Praat AI Does
-
-Praat AI generates personalized language experiences that adapt to each learner in real time.
-
-It creates:
-
-- Comprehensible spoken input
-- Adaptive listening environments
-- Contextual repetition of language
-- Spaced recall of previously learned material
-- Level-based progression through natural content
-- Personalized input based on interests and goals
-
-The system continuously adjusts difficulty so that the learner is always slightly challenged but never overwhelmed.
-
-This is where acquisition happens.
+Praat AI is built to reproduce that mechanism.
 
 ---
 
-## Core Principles
+## What Praat AI is
 
-### Listening First
-Language enters through the ears before it becomes speech.
+Praat AI is an open-source system that generates **adaptive, comprehensible audio input** so users can acquire language naturally.
 
-### Comprehensible Input
-Acquisition happens when learners understand messages slightly above their level.
+It creates a continuous learning loop:
 
-### Active Understanding
-Comprehension drives internalization, not passive exposure.
+- Listening (comprehension input)
+- Understanding (meaning extraction)
+- Internalization (memory formation)
+- Re-exposure (spaced recall)
 
-### Context Over Memorization
-Meaning is learned through usage and context, not isolated definitions.
-
-### Spaced Recall
-Language strengthens through repeated exposure over time.
-
-### Personalization
-Every learner acquires language differently.
+No switching methods.
+No manual planning.
+No guessing what to do next.
 
 ---
 
-## Why AI Makes This Possible
+## Core insight
 
-For decades, this approach was theoretically known but practically difficult to scale.
+Language is not learned.
 
-It required:
+Language is acquired.
 
-- Human tutors  
-- Native speakers  
-- Carefully graded content  
-- Immersion environments  
+And acquisition only happens when:
 
-AI changes this.
+> input is understandable, meaningful, and repeated over time
 
-Now we can generate unlimited, personalized, level-appropriate spoken language instantly.
-
-What used to require immersion can now happen anywhere.
+Praat AI operationalizes this at scale using AI.
 
 ---
 
-## What We Are Building
+## What makes it different
 
-Praat AI is building an open infrastructure for language acquisition:
+| System | Approach |
+|--------|--------|
+| Traditional apps | Teach language explicitly |
+| Flashcard systems | Memorization-first |
+| Courses | Rule-based learning |
+| Praat AI | Acquisition through listening |
 
-- AI-generated comprehensible input
-- Adaptive listening systems
-- Personalized acquisition pathways
-- Memory-aware spaced repetition
-- Speech and pronunciation feedback
-- Language acquisition research tools
-- Open datasets and experimentation framework
+Praat AI does not optimize teaching.
+
+It removes teaching entirely.
 
 ---
 
-## Why Open Source
+## How it works
 
-Language belongs to everyone.
+Praat AI builds a personalized auditory environment for each learner:
 
-The tools that shape how humans acquire language should be:
+- AI generates level-appropriate spoken input
+- Content adapts to user comprehension in real time
+- Previously learned material reappears naturally
+- Listening becomes structured but effortless
 
-- Transparent  
-- Reproducible  
-- Extensible  
-- Community-driven  
+The user is always in:
+**"just difficult enough to grow" zone**
 
-We believe no single company should own the future of language acquisition.
+---
+
+## Principles
+
+- Listening comes first
+- Comprehension drives acquisition
+- Meaning before rules
+- Context before memorization
+- Repetition before mastery
+- Adaptation per learner
+- No manual planning required
+
+---
+
+## Why open source
+
+Language is a human infrastructure, not a product.
+
+We believe:
+
+- Language acquisition should be transparent
+- Learning systems should be auditable
+- Cognitive models should be shared
+- No company should own “how humans learn language”
 
 Praat AI is an open foundation for that future.
 
 ---
 
-## Try It Now
+## Try it
 
 👉 https://praatai.vercel.app/
 
 ---
 
-## Long-Term Vision
+## Vision
 
-Language learning tools today help people study languages.
+We are not building a language learning app.
 
-The future will help people acquire them.
+We are building the first **AI-native language acquisition layer**.
 
-Praat AI aims to become the open-source foundation for that shift.
+A system that could eventually power:
 
-A system capable of helping anyone acquire any language naturally through listening.
-
-Not an app.
-
-Not a course.
-
-A universal language acquisition engine.
+- language learning
+- global education
+- cross-border communication
+- workforce training
+- multilingual AI interfaces
 
 ---
 
-## Contributing
+## Contribute
 
-We welcome contributors from all backgrounds:
+We welcome:
 
-- Machine learning
-- Cognitive science
-- Computational linguistics
-- Language education
-- Speech technology
-- UX design
-- Open source development
+- AI engineers
+- linguists
+- cognitive scientists
+- open-source builders
+- language learners
+- researchers
 
-You can contribute code, research, datasets, experiments, or ideas.
+You can contribute code, experiments, models, datasets, or ideas.
 
 ---
 
-## One Line
+## One line
 
-Praat AI is an open-source language acquisition engine that uses AI and cognitive science to help people acquire any language naturally through listening.
+Praat AI is an open-source AI system that enables humans to acquire any language naturally through listening, not study.
