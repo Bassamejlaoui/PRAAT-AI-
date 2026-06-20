@@ -141,6 +141,12 @@ Praat AI is an open foundation for that future.
 
 ---
 
+## Try It Now
+
+👉 https://praatai.vercel.app/
+
+---
+
 ## Long-Term Vision
 
 Language learning tools today help people study languages.
