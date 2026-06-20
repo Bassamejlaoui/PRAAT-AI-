@@ -1,0 +1,7 @@
+{
+  "name": "PRAAT AI",
+  "description": "High-performance structural language acquisition powered by real-time AI for a purely conversational approach to fluency.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
